@@ -40,6 +40,6 @@ The following are the files available in this repository:
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available 
-[here](https://medium.com/@matleib/draft-udacity-data-science-capstone-project-5892371584a3).
+[here](https://medium.com/@matleib/udacity-data-science-capstone-project-5892371584a3).
 
 The Kaggle competition you can find [here](https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard).
